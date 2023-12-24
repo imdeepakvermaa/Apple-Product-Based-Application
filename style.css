@@ -49,7 +49,7 @@ html {
 }
 
 .logo i {
-  font-size: 10rem;
+  font-size: 4rem;
   color: rgba(0, 0, 0, 0.8);
 }
 /* End of Logo */
@@ -80,8 +80,8 @@ html {
 }
 
 .cube {
-  width: 30rem;
-  height: 55rem;
+  width: 20rem;
+  height: 35rem;
   transform-style: preserve-3d;
   transform: rotateX(0) rotateY(20deg) rotateZ(0);
   position: relative;
@@ -93,10 +93,10 @@ html {
 .back-side {
   width: 100%;
   height: 100%;
-  background-color: #fee;
+  background-color: rgb(45, 42, 42);
   position: absolute;
   transform-style: preserve-3d;
-  box-shadow: inset 0.1rem 0.1rem 0.1rem #ddd, inset -0.1rem -0.1rem 0.1rem #ddd;
+  box-shadow: inset 0.1rem 0.1rem 0.1rem #ddd, inset -0.1rem -0.1rem 0.1rem #951919;
 }
 
 .front-side {
@@ -109,7 +109,7 @@ html {
   content: "";
   width: 100%;
   height: 10rem;
-  background-color: #fee;
+  background-color: rgb(21, 21, 21);
   position: absolute;
   box-shadow: inset 0.1rem 0.1rem 0.1rem #ddd, inset -0.1rem -0.1rem 0.1rem #ddd;
 }
@@ -143,7 +143,7 @@ html {
   content: "iPhone";
   width: 10rem;
   height: 100%;
-  background-color: #fee;
+  background-color: rgb(242, 235, 235);
   position: absolute;
   display: flex;
   justify-content: center;
@@ -178,7 +178,7 @@ html {
 /* Controls */
 .controls {
   position: absolute;
-  bottom: -15rem;
+  bottom: -11rem;
   left: 50%;
   transform: translateX(-50%);
   width: 10rem;
