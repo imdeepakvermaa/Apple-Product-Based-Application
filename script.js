@@ -113,6 +113,8 @@ window.addEventListener('scroll', () => {
 // End of Section 3
 
 // Section 4
+
+
 const watchBands = document.querySelector('.watch-bands')
 const watchCases = document.querySelector('.watch-cases')
 
