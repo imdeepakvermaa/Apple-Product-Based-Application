@@ -1,3 +1,6 @@
+
+project showcasing : https://imdeepakvermaa.github.io/Apple-Product-Based-Application/
+
 Apple eCommerce Website
 This repository contains the code for an Apple-themed eCommerce website showcasing various Apple products. The website is structured using HTML, CSS, and JavaScript.
 
